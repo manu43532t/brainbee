@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ $hero := .Site.Params.hero }}
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">{{ $hero.title | default .Site.Title }}</h1>
+    <p class="hero-subtitle">{{ $hero.subtitle | default .Site.Params.description }}</p>
+    {{ with $hero.cta }}
+    <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
+    {{ end }}
+  </div>
+</section>
+
+{{ range .Site.Params.homeSections }}
+<section class="home-section {{ .class }}">
+  <div class="section-inner">
+    <h2>{{ .title }}</h2>
+    <p>{{ .body | markdownify }}</p>
+    {{ with .cta }}
+    <a href="{{ .url }}" class="btn btn-secondary">{{ .text }}</a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ $pages := where .Site.RegularPages "Section" "news" }}
+{{ if $pages }}
+<section class="home-section news-section">
+  <div class="section-inner">
+    <h2>Latest News</h2>
+    <div class="news-grid">
+      {{ range first 3 $pages }}
+      <article class="news-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="read-more">Read more →</a>
+      </article>
+      {{ end }}
+    </div>
+    <a href="{{ "/news/" | relURL }}" class="btn btn-secondary">All News</a>
+  </div>
+</section>
+{{ end }}
+{{ end }}

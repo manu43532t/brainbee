@@ -1,0 +1,23 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-content">
+      <p class="footer-logo">🧠 {{ .Site.Title }}</p>
+      <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+    </div>
+    <div class="footer-links">
+      <p>
+        {{ range .Site.Params.socialLinks }}
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+        {{ end }}
+      </p>
+    </div>
+    <div class="footer-copy">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. Part of the
+        <a href="https://www.internationalbrainbee.com/" target="_blank" rel="noopener noreferrer">
+          International Brain Bee
+        </a>.
+      </p>
+      <p>Organised by <a href="{{ .Site.Params.organizerURL }}" target="_blank" rel="noopener noreferrer">{{ .Site.Params.organizer }}</a>.</p>
+    </div>
+  </div>
+</footer>
