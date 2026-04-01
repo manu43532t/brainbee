@@ -1,0 +1,12 @@
+name = "BrainBee"
+license = "MIT"
+licenselink = "https://github.com/VIB-Center-for-Molecular-Neurology/brainbee/blob/main/LICENSE"
+description = "A theme for the Belgium BrainBee website"
+homepage = "https://brainbee.be"
+tags = ["neuroscience", "education", "competition"]
+features = ["responsive"]
+min_version = "0.110.0"
+
+[author]
+  name = "VIB Center for Molecular Neurology"
+  homepage = "https://www.vibcmn.be"

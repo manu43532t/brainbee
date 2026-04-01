@@ -1,0 +1,76 @@
+baseURL = "https://brainbee.be/"
+languageCode = "en"
+title = "Brain Bee Belgium"
+theme = "brainbee"
+enableRobotsTXT = true
+summaryLength = 40
+
+[params]
+  description = "Belgium's hub for the International Brain Bee — a neuroscience competition for high school students."
+  tagline = "Inspiring the next generation of neuroscientists."
+  organizer = "VIB Center for Molecular Neurology"
+  organizerURL = "https://www.vibcmn.be"
+
+  [params.hero]
+    title = "Brain Bee Belgium"
+    subtitle = "A neuroscience competition that inspires high school students to explore the wonders of the brain."
+    [params.hero.cta]
+      text = "Learn about the competition"
+      url = "/competition/"
+
+  [[params.homeSections]]
+    title = "What is the Brain Bee?"
+    body = "The **International Brain Bee (IBB)** is a neuroscience competition for high school students around the world. The aim of the Brain Bee is to motivate students to learn more about the brain and to inspire them to pursue careers in neuroscience."
+    class = "about-section"
+    [params.homeSections.cta]
+      text = "About Brain Bee"
+      url = "/about/"
+
+  [[params.homeSections]]
+    title = "The Competition"
+    body = "Students are tested on topics including **brain anatomy**, neural pathways, neurological disorders, and cutting-edge neuroscience research. Winners of each Local Brain Bee advance to the National Championship, and national winners compete at the **International Brain Bee World Championship**."
+    class = "competition-section"
+    [params.homeSections.cta]
+      text = "Competition details"
+      url = "/competition/"
+
+  [[params.homeSections]]
+    title = "A Global Community"
+    body = "The International Brain Bee has grown to include participants from **over 50 countries**. The competition fosters collaboration and communication between students, educators, and scientists from around the world."
+    class = "community-section"
+    [params.homeSections.cta]
+      text = "International Brain Bee"
+      url = "https://www.internationalbrainbee.com/"
+
+  [[params.socialLinks]]
+    name = "International Brain Bee"
+    url = "https://www.internationalbrainbee.com/"
+
+  [[params.socialLinks]]
+    name = "VIB CMN"
+    url = "https://www.vibcmn.be"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menus.main]]
+  name = "Competition"
+  url = "/competition/"
+  weight = 3
+
+[[menus.main]]
+  name = "News"
+  url = "/news/"
+  weight = 4
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5

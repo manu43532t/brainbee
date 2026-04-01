@@ -1,0 +1,38 @@
+---
+title: "Contact"
+subtitle: "Get in touch with Brain Bee Belgium"
+date: 2024-01-01
+draft: false
+---
+
+## Contact Us
+
+Have questions about the Belgian Brain Bee? We are happy to hear from you.
+
+**Organising committee**
+Brain Bee Belgium
+VIB Center for Molecular Neurology
+Universiteitsplein 1
+2610 Antwerp, Belgium
+
+**Email:** [info@brainbee.be](mailto:info@brainbee.be)
+
+## For Students
+
+If you are a student interested in participating, please check our [competition page](/competition/) for registration information and study materials.
+
+## For Teachers and Schools
+
+If you would like to organise a local Brain Bee at your school or to bring your students to the national competition, please contact us by email.
+
+## For Scientists and Researchers
+
+If you are a neuroscientist interested in volunteering as a judge or mentor, we would love to hear from you. Your involvement helps inspire the next generation of brain researchers.
+
+## Media Inquiries
+
+For press inquiries or interview requests, please contact us by email with the subject line "Media".
+
+---
+
+*Brain Bee Belgium is organised by the [VIB Center for Molecular Neurology](https://www.vibcmn.be) in collaboration with Belgian universities and research institutions.*
