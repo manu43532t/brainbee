@@ -40,4 +40,4 @@ The competition is organised by the [VIB Center for Molecular Neurology](https:/
 
 The International Brain Bee has grown to include participants from over 50 countries and has become a major event in the global neuroscience community. It not only provides students with the opportunity to learn about the brain but also fosters collaboration and communication between students, educators, and scientists from around the world.
 
-For more information about the global competition, visit the [International Brain Bee website](https://www.internationalbrainbee.com/).
+For more information about the global competition, visit the [International Brain Bee website](https://www.internationalbrainbee.com/)!
