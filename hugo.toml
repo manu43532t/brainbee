@@ -1,7 +1,7 @@
-baseURL = "https://brainbee.be/"
+baseURL = "https://Belgian brainbee.be/"
 languageCode = "en"
-title = "Brain Bee Belgium"
-theme = "brainbee"
+title = "Belgian Brain Bee"
+theme = "Belgian Brain bee"
 enableRobotsTXT = true
 summaryLength = 40
 
@@ -12,7 +12,7 @@ summaryLength = 40
   organizerURL = "https://www.vibcmn.be"
 
   [params.hero]
-    title = "Brain Bee Belgium"
+    title = "Belgian Brain Bee"
     subtitle = "A neuroscience competition that inspires high school students to explore the wonders of the brain."
     [params.hero.cta]
       text = "Learn about the competition"
