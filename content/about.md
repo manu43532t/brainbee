@@ -1,7 +1,7 @@
 ---
 title: "About Brain Bee Belgium"
 subtitle: "Connecting Belgian students with neuroscience"
-date: 2024-01-01
+date: 2026-09-09
 draft: false
 ---
 
@@ -24,6 +24,7 @@ The competition is organised by the [VIB Center for Molecular Neurology](https:/
 
 ## How does it work?
 
+For this First Edition of the Belgian Brain bee, We will hold directly a National Competition on 09/09/2026 and later on we will consider This structure : 
 1. **Local competitions** are held at schools and universities across Belgium.
 2. The winners of each local competition advance to the **Belgian Brain Bee Championship**.
 3. The Belgian national winner competes at the **International Brain Bee World Championship**.
