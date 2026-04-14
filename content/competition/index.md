@@ -1,13 +1,13 @@
 ---
 title: "The Competition"
 subtitle: "Everything you need to know about participating in Brain Bee Belgium"
-date: 2024-01-01
+date: 2026-09-09
 draft: false
 ---
 
 ## Competition Format
 
-The Brain Bee competition tests students on a broad range of neuroscience topics. The Belgian competition follows the format established by the International Brain Bee.
+The Brain Bee competition tests students on a broad range of neuroscience topics. The Belgian Brain Bee follows the format established by the International Brain Bee.
 
 ### Written Test
 
@@ -25,24 +25,28 @@ Top-scoring students from the written test advance to the oral quiz, a live roun
 
 ## Who Can Participate?
 
-The Brain Bee is open to **high school students** (secondary school, ages 14–19). Students must be enrolled in a Belgian secondary school and must not have previously won the national competition.
+The Brain Bee is open to **high school students** (secondary school, ages 13–19). Students must be enrolled in a Belgian secondary school and must not have previously won the national competition.
 
 ## How to Register
 
-Registration for the Belgian Brain Bee Championship opens annually. Check the [news](/news/) section for announcements about upcoming competitions and registration deadlines.
+Registration for the Belgian Brain Bee Championship is Open!. If you are elligible and want to participate you can regster here : 
+.[Registeration](https://docs.google.com/forms/d/1vBIcjldSJ301WSBrscrCbnjdauvH8tivqNrRcmJS89c/edit?usp=forms_home&ouid=109643554937059680719&ths=true) Check the [news](/news/) section for announcements about upcoming competitions and registration deadlines.
+
 
 ## Study Resources
 
 To prepare for the Brain Bee, we recommend:
 
-- **"Neuroscience: Exploring the Brain"** by Bear, Connors, and Paradiso
-- The official [International Brain Bee study guide](https://www.internationalbrainbee.com/competition/study-materials/)
-- Resources from the [Society for Neuroscience](https://www.sfn.org/)
-- Online neuroscience courses from platforms such as Coursera and Khan Academy
+- The competition will be based on the content of this book.[The Brain Facts Book](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf) 
+- You can also use the following ressources to support your learning :
+.[The Essential Neuroscience](https://books.google.ca/books/about/Essential_Neuroscience.html?id=lnkj6xevHh0C)
+.[The Brain](https://books.google.be/books/about/The_Brain.html?id=ExaP1cG9CvUC&redir_esc=y)
+
+
 
 ## Past Winners
 
-Belgium has a proud tradition of participating in the International Brain Bee. Our national champions have represented Belgium with distinction at the World Championship.
+This is the first edition of the Belgian Brain Bee and it will be held onn 09/09/2026, For the other edition the dates will vary 
 
 *Past winners and results will be listed here as the competition history grows.*
 
