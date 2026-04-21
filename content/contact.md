@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 subtitle: "Get in touch with Brain Bee Belgium"
-date: 2024-01-01
+date: 2026-09-09
 draft: false
 ---
 
@@ -15,7 +15,7 @@ VIB Center for Molecular Neurology
 Universiteitsplein 1
 2610 Antwerp, Belgium
 
-**Email:** [info@brainbee.be](mailto:info@brainbee.be)
+**Email:** [brainbeebelgium@gmail.com](mailto:brainbeebelgium@gmail.com)
 
 ## For Students
 
