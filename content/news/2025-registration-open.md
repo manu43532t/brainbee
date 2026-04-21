@@ -1,22 +1,20 @@
 ---
 title: "Registration open for 2025 Belgian Brain Bee Championship"
-date: 2025-01-15
+date: 2026-04-01
 draft: false
-summary: "Registration for the 2025 Belgian Brain Bee Championship is now open. High school students from across Belgium are invited to participate."
+summary: "Registration for the 2026 Belgian Brain Bee Championship is now open. High school students from across Belgium are invited to participate."
 ---
 
-Registration for the **2025 Belgian Brain Bee Championship** is now open!
+Registration for the **2026 Belgian Brain Bee Championship** is now open!
 
-High school students from across Belgium are invited to take part in this exciting neuroscience competition. This year's championship will take place in **April 2025** in Antwerp.
-
+High school students from across Belgium are invited to take part in this exciting neuroscience competition.
 ## How to Register
 
-Students can register individually or through their school. Contact your teacher or email [info@brainbee.be](mailto:info@brainbee.be) to get started.
+Students can register individually or through their school. Contact your teacher or email [Brainbeebelgium@gmail.com](mailto:Brainbeebelgium@gmail.com) to get started.
 
 ## Competition Date
 
-- **Written test:** April 2025 *(exact date to be confirmed)*
-- **Oral quiz (final round):** April 2025 *(exact date to be confirmed)*
+The date of the competition is 09/09/2026
 
 ## Prepare Yourself
 
