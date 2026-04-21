@@ -1,7 +1,7 @@
 ---
 title: "The Competition"
-subtitle: "Everything you need to know about participating in Brain Bee Belgium"
-date: 2024-01-01
+subtitle: "Everything you need to know about participating in The Belgian Brain Bee "
+date: 2025-09-09
 draft: false
 ---
 
@@ -25,7 +25,7 @@ Top-scoring students from the written test advance to the oral quiz, a live roun
 
 ## Who Can Participate?
 
-The Brain Bee is open to **high school students** (secondary school, ages 14–19). Students must be enrolled in a Belgian secondary school and must not have previously won the national competition.
+The Brain Bee is open to **high school students** (secondary school, ages 13–19). Students must be enrolled in a Belgian secondary school and must not have previously won the national competition.
 
 ## How to Register
 
@@ -35,14 +35,13 @@ Registration for the Belgian Brain Bee Championship opens annually. Check the [n
 
 To prepare for the Brain Bee, we recommend:
 
+- The official Brain Bee preparation resource [Brain Bee facts ](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf)
 - **"Neuroscience: Exploring the Brain"** by Bear, Connors, and Paradiso
-- The official [International Brain Bee study guide](https://www.internationalbrainbee.com/competition/study-materials/)
-- Resources from the [Society for Neuroscience](https://www.sfn.org/)
 - Online neuroscience courses from platforms such as Coursera and Khan Academy
 
 ## Past Winners
 
-Belgium has a proud tradition of participating in the International Brain Bee. Our national champions have represented Belgium with distinction at the World Championship.
+Since it's the first edition of the Belgian Brain Bee, we will the national Belgian Brain bee on 9th September 2026, and in the next edition The struture will change.
 
 *Past winners and results will be listed here as the competition history grows.*
 
@@ -50,8 +49,6 @@ Belgium has a proud tradition of participating in the International Brain Bee. O
 
 | Stage | Period |
 |---|---|
-| Local competitions | February – March |
-| Belgian National Championship | April |
-| International World Championship | July |
+| National Compettion  | September |
 
 *Exact dates vary by year. Check the news section for current-year announcements.*
