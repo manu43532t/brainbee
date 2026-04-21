@@ -1,7 +1,7 @@
 ---
 title: "About Brain Bee Belgium"
 subtitle: "Connecting Belgian students with neuroscience"
-date: 2024-01-01
+date: 2026-09-09
 draft: false
 ---
 
@@ -30,6 +30,7 @@ The competition is organised by the [VIB Center for Molecular Neurology](https:/
 
 ## Why participate?
 
+For this first edition we will do directly the National Competition, therefore the winners cna ascend in the international. In the next editions we will consider starting with this format : 
 - Deepen your knowledge of neuroscience
 - Meet other students passionate about brain science
 - Connect with professional scientists and researchers
