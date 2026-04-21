@@ -102,11 +102,9 @@ ul, ol {
   display: flex;
   align-items: center;
   justify-content: space-between;
-
-}
-<img src="{{ "IMG_0660 (1).PNG" | relURL }}" alt="Brain Bee Logo" class="logo-img" style="height: 50px; width: auto;">
-
-}
+{
+<img src="{{ "images/logo.png" | relURL }}" alt="Brain Bee Logo" class="logo-img" style="height: 50px; width: auto;"> 
+{
 .logo img {
   height: 50px;
   width: auto;
