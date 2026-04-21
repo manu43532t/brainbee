@@ -103,17 +103,13 @@ ul, ol {
   align-items: center;
   justify-content: space-between;
 }
+<img src="{{ "images/logo.png" | relURL }}" alt="Brain Bee Logo" class="logo-img" style="height: 50px; width: auto;">
 
-.logo a {
-  text-decoration: none;
 }
-
-.logo-text {
-  font-family: var(--font-heading);
-  font-size: 1.4rem;
-  font-weight: bold;
-  color: #ffffff;
-  letter-spacing: 0.02em;
+.logo img {
+  height: 50px;
+  width: auto;
+  display: block;
 }
 
 /* Navigation */
