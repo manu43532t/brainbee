@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 subtitle: "Get in touch with Brain Bee Belgium"
-date: 2026-09-09
+date: 2026-04-09
 draft: false
 ---
 

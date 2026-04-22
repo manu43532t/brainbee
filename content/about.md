@@ -1,7 +1,7 @@
 ---
 title: "About Brain Bee Belgium"
 subtitle: "Connecting Belgian students with neuroscience"
-date: 2026-09-09
+date: 2026-04-09
 draft: false
 ---
 
